@@ -91,7 +91,7 @@ protobuf==4.24.0
 psutil==5.9.5
 ptyprocess==0.7.0
 pure-eval==0.2.2
-pyarrow==12.0.1
+pyarrow==14.0.1
 Pygments==2.16.1
 pyod==1.1.0
 pyparsing==3.0.9
